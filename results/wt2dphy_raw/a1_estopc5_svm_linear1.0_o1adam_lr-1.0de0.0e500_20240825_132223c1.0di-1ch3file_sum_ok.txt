@@ -1,0 +1,38 @@
+{'type_run': 'learn', 'config_file': '', 'seed_value_begin': 1, 'search_already': 'y', 'cudaid': -3, 'gpu_memory_fraction': 0.0, 'rd_pr_seed': 'none', 'debug': 'n', 'check': 'n', 'grid_coef_time': 10, 'cv_coef_time': 4, 'coef_ini': 255.0, 'metric_selection': 'roc_auc', 'parent_folder_img': 'images', 'original_data_folder': 'data', 'data_name': 'wt2dphy', 'parent_folder_results': 'results', 'save_avg_run': 'n', 'save_labels': 'n', 'save_d': 'n', 'save_w': 'y', 'suff_fini': 'ok', 'save_rf': 'y', 'save_para': 'n', 'path_config_w': '', 'ext_data': '', 'save_entire_w': 'n', 'save_folds': 'y', 'sound_fini': 'n', 'n_folds': 10, 'test_ext': 'n', 'run_time': 1, 'whole_run_time': 1, 'preprocess_img': 'none', 'pretrained_w_path': '', 'test_size': 1.0, 'numfilters': 64, 'numlayercnn_per_maxpool': 1, 'nummaxpool': 1, 'dropout_cnn': 0.0, 'dropout_fc': 0.0, 'padding': 'n', 'filtersize': 3, 'poolsize': 2, 'model': 'svm_model', 'num_classes': 1, 'epoch': 500, 'learning_rate': -1.0, 'batch_size': 16, 'learning_rate_decay': 0.0, 'momentum': 0.0, 'optimizer': 'adam', 'loss_func': 'binary_crossentropy', 'e_stop': 5, 'e_stop_consec': 'consec', 'svm_c': 1.0, 'svm_kernel': 'linear', 'rf_n_estimators': 500, 'rf_max_features': -2, 'rf_max_depth': -1, 'knn_n_neighbors': 5, 'coeff': 1.0, 'orderf_fill': 'none', 'new_dim': 676, 'path_vis_learn': '', 'path_data_vis_learn': '', 'del0': 'n', 'lr_visual': 100.0, 'label_visual': '', 'iter_visual': 300, 'ini_visual': 'pca', 'method_lle': 'standard', 'eigen_solver': 'auto', 'cmap_vmin': 0.0, 'cmap_vmax': 1.0, 'scale_mode': '', 'n_quantile': 1000, 'min_scale': 0.0, 'max_scale': 1.0, 'min_v': 0.0, 'max_v': 1.0, 'num_bin': 10, 'auto_v': 'n', 'mode_pre_img': 'caffe', 'channel': 3, 'dim_img': -1, 'visualize_model': 'n', 'algo_redu': 'none', 'reduc_perle': 10, 'reduc_ini': 'pca', 'type_emb': 'raw', 'imp_fea': 'none', 'label_emb': 0, 'emb_data': '', 'type_bin': '', 'perlexity_neighbor': 5, 'n_components_emb': 2, 'shape_drawn': ',', 'fig_size': 0, 'point_size': 1.0, 'colormap': '', 'margin': 0.0, 'alpha_v': 1.0, 'recreate_img': 0}
+[]
+seed1 fold1/10###############seed1 fold1/10###############seed1 fold1/10
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.64++0.5++0.829++0.56++0.633++0.675++0.0++1.0++4.0++1.0++4.0++0.066++2.0
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.651++0.4++0.876++0.32++0.633++0.725++-0.333++0.0++5.0++1.0++4.0++0.09++2.0
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.64++0.4++0.865++0.28++0.582++0.834++-0.333++0.0++5.0++1.0++4.0++0.111++2.0
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.605++0.7++0.802++0.75++0.663++0.657++0.408++1.0++3.0++0.0++6.0++0.134++2.0
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.628++0.5++0.777++0.625++0.638++0.675++-0.272++0.0++4.0++1.0++5.0++0.154++2.0
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.547++0.6++0.223++0.417++0.691++0.679++0.0++0.0++4.0++0.0++6.0++0.195++2.0
+seed1 fold7/10###############seed1 fold7/10###############seed1 fold7/10
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.552++0.444++0.178++0.1++0.717++0.765++-0.316++0.0++4.0++1.0++4.0++0.235++2.0
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.586++0.556++0.809++0.7++0.675++0.679++0.0++0.0++4.0++0.0++5.0++0.271++2.0
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.552++0.556++0.228++0.5++0.716++0.694++0.0++0.0++4.0++0.0++5.0++0.295++2.0
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.632++0.556++0.811++0.55++0.624++0.68++0.0++0.0++4.0++0.0++5.0++0.322++2.0
+time	tr_ac	va_ac	sd	va_au	sd	tn	fn	fp	tp	preci	sd	recall	sd	f1	sd	mmc	sd	epst
+0.3	0.603	0.521	0.0	0.48	0.0	0.2	0.5	4.1	4.8	0.538	0.0	0.903	0.0	0.673	0.0	-0.085	0.0	2.0
+tr_ac_a	sd_ac	va_ac_a	sd_ac	tr_au_a	sd_au	va_au_a	sd_au	va_mc_a	sd_mc
+0.6031141406041165	0.038981119107748895	0.5211111111111111	0.08825468196582484	0.6397766400111025	0.28323962065630276	0.4801666666666667	0.19184260041329018	-0.08468116691955503	0.22164249652410692
