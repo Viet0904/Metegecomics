@@ -1,0 +1,1 @@
+train_acc	val_acc	train_auc	val_auc	train_loss	val_loss	val_mmc	tn	fp	fn	tp	time	ep_stopped	index_fold	seed
